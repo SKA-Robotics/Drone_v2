@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/custom_scene_drone/AutoVrtlEnv/Content/CesiumSettings/CesiumIonServers/CesiumIonSaaS.uasset",
+				"C:/custom_scene_drone/AutoVrtlEnv/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/custom_scene_drone/AutoVrtlEnv/Content/Maps/EmptyScene.umap",
+				"C:/custom_scene_drone/AutoVrtlEnv/Content/Materials/M_ARUCO.uasset",
+				"C:/custom_scene_drone/AutoVrtlEnv/Content/Materials/5x5_1000-101.uasset",
+				"C:/custom_scene_drone/AutoVrtlEnv/Content/Maps/_GENERATED/adask/CubeGridToolOutput_82FDB16E.uasset"
+			]
+		}
+	]
+}
