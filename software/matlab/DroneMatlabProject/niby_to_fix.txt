@@ -1,0 +1,7 @@
+największe rzeczy:
+1. pozycje celów na podstawie obrazu
+2. fuzja danych z imu/kostki żeby dobrze wyznaczyć pozycje
+inne:
+dodać inne pliki symulacyjne - mapa i dron
+ogarnąć czy na pewno bloczki mają dobre parametry
+ogarnąć czy na pewno wektory/zmienne/inne są dobrych rozmiarów 
